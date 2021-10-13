@@ -14,7 +14,7 @@
 ## Demo
 Link: [https://flight-fare-prediction3.herokuapp.com/](https://flight-fare-prediction3.herokuapp.com/)
 [![](https://i.imgur.com/4Asyr7z.png)](https://flight-fare-prediction3.herokuapp.com/)
-[![](https://i.imgur.com/4Asyr7z.png)](https://flight-fare-prediction3.herokuapp.com/)
+[![](https://i.imgur.com/S8SqzzV.png)](https://flight-fare-prediction3.herokuapp.com/)
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
 
