@@ -14,9 +14,7 @@
 ## Demo
 Link: [https://flight-fare-prediction3.herokuapp.com/](https://flight-fare-prediction3.herokuapp.com/)
 
-[![](https://i.imgur.com/R1g2wvC.png)](https:flight-fare-prediction3.herokuapp.com/)
-
-[![]()](https://flight-fare-prediction3.herokuapp.com/)
+[![](https://imgur.com/a/Ky1RDm8)](https://flight-fare-prediction3.herokuapp.com/)
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
@@ -46,8 +44,8 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── Procfile
 ├── README.md
 ├── app.py
-├── flight_price.ipynb
-├── flight_rf.pkl
+├── Flight_Fare_Training_Model.ipynb
+├── flight_price.pkl
 ├── requirements.txt
 ```
 
